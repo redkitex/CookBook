@@ -1,0 +1,6 @@
+Adding Recipes##New Recipes can be adding by using the "+ Recipe" button on the welcome screen or below the table on the home screen
+Adding Ingredients##On the home screen click the "+ Recipe" button, once you have been taken to the next screen click on the "+ Ingredient" Button. This will allow you to add a new ingredient. Now you can select the ingredient you added from the options
+Editing Recipes##Recipes can be edited by first selecting one from the table and then pressing the "Edit" button. Make sure to "Save" when you are finished editing!
+Viewing Recipes## Recipes can be viewed by first selecting one from the table and then pressing the "View" button.
+Filtering Recipes##Recipes can be sorted and filtered using the tools in the side bar on the left of the table of recipes (in the Home Screen). Here the recipes can be sorted, by their name, type or duration and filtered by the duration, or ingredients used. Make sure to press the "Filter" button to see the changes applied to the table.
+Resetting Filters##Filters can be reset using the "Clear" button below all the filters. This will cancel all the filters added.
